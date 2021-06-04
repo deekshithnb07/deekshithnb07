@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deekshithnb07
+- 👋 Hi, I’m Deekshith
 - 👀 I’m interested in data science, days engineering and machine learning
 - 🌱 I’m currently learning date engineering
 - 💞️ I’m looking to collaborate on ...
