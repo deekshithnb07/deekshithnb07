@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Deekshith
-- 👀 I’m interested in data science, days engineering and machine learning
-- 🌱 I’m currently learning date engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deekshith.
+- 👀 I’m interested in data science, data engineering and machine learning.
+- 🌱 I’m currently learning date science.
 - 📫 How to reach me ... deekshithnb07@gmail.com
 
 <!---
