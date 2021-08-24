@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deekshith.
-- 👀 I’m interested in data science, data engineering and machine learning.
-- 🌱 I’m currently learning date science.
+- 👀 I’m interested in front-end development.
 - 📫 How to reach me ... deekshithnb07@gmail.com
 
 <!---
