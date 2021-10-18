@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deekshith.
-- 👀 I’m interested in front-end development.
+- 👀 I’m aspiring in front-end developer.
 - 📫 How to reach me ... deekshithnb07@gmail.com
 
 <!---
